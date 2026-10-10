@@ -1,6 +1,33 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
+
+# [THEATERLE](https://theaterle.com)
+- [Show Guesser](https://theaterle.com) Daily Broadway musical guessing game: guess the mystery musical in 8 tries, with clues for premiere year, composer, genre, source material, and the decade it is set in.
+- [Character Guesser](https://theaterle.com/character-guesser) Daily Broadway character guessing game: name the mystery character in 8 tries.
+
+# [Roughly](https://roughly.is)
+- [Where?](https://where.roughly.is) Daily animal guessing game: drop a pin where you think the animal lives, then the reveal shows its real range and how far off you were. Published on September 24, 2026
+- [When?](https://when.roughly.is) Guess the year something happened in history, then see how far off you and everyone else were. Published on September 24, 2026
+- [How big?](https://howbig.roughly.is) Two things side by side, guess how many times bigger one is than the other. Published on September 24, 2026
+- [How many?](https://howmany.roughly.is) Guess how many people fit into something famous, like a stadium or a pool. Published on September 24, 2026
+- [How expensive?](https://howexpensive.roughly.is) Guess what something cost in a given place and year. Published on September 24, 2026
+- [How sweet?](https://howsweet.roughly.is) Guess how much sugar is in everyday food and drinks. Published on September 24, 2026
+- [How wide?](https://howwide.roughly.is) Two cities on the same scale, guess how big one is compared to the other. Published on September 24, 2026
+- [Which way?](https://whichway.roughly.is) Draw a river or a mountain range from memory on the map. Published on September 24, 2026
+- [Where from?](https://wherefrom.roughly.is) See a company logo and guess where the company is from. Published on September 24, 2026
+- [Who?](https://who.roughly.is) A question from a real survey, guess what share of people said yes. Published on September 24, 2026
+
+
+# [wordlecup.today](www.wordlecup.today)
+- Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
+
+# [Luke Lyons](https://github.com/llyons151)
+- [SoulsDoku](https://www.soulsdoku.com) Daily FromSoftware boss guessing games: a 3x3 category grid plus classic-clue, silhouette, lore and arena modes across Dark Souls, Elden Ring, Bloodborne and Sekiro. Published on June 29, 2026
+
 # [u/die_back](https://www.reddit.com/user/die_back/)
 - [Wormle](https://www.wormle.com/) / [Reddit release post](https://www.reddit.com/r/WebGames/comments/1e2vcn0/wormle_a_daily_word_game_that_combines_elements/) A daily word game combining word association and spacial reasoning. Published on July 14, 2024 
 
@@ -126,6 +153,17 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jonathan Magano](https://x.com/Jonamaths)/[Framagit](https://framagit.org/JonathanMM)/[Mastodon](https://mastodon.social/@JonathanMM)
 - [Sutom](https://sutom.nocle.fr/)/[Framagit](https://framagit.org/JonathanMM/sutom)/[Wikipedia](https://fr.wikipedia.org/wiki/Sutom) Wordle game inspired by the French television game show _Motus_. Published on January 8, 2022
 
+# [Dialactal](https://dialactal.fr/)
+- [SUTOM Dialactal](https://dialactal.fr/sutom) French daily hidden word game with variable word length (6 to 9 letters) and green hints carried over between rows.
+- [Semantle FR](https://dialactal.fr/semantle) French semantic guessing game: each guess is scored by its rank among the 1000 nearest words to the secret word.
+- [L'Article du Jour](https://dialactal.fr/articledujour) Guess the hidden French Wikipedia article by revealing its words, with semantic proximity hints and a co-op mode.
+
+# [Daily-Trivia.com](https://daily-trivia.com)/[Bluesky](https://bsky.app/profile/plot-hole.com)
+- [Plot Hole](https://plot-hole.com/) Daily movie guessing game — 5 clues from vague to obvious, guess the film as early as you can for a higher score. Published on March 20, 2026
+- [TV Addict](https://tv-addict.com/) Daily TV show guessing game — like Wordle but for TV shows; 5 clues, guess early for more points. Published on March 20, 2026
+- [Luminary](https://play-luminary.com/) Daily actor trivia — a sentence clue and four star photos, tap the match before the 30-second timer runs out. Published on June 12, 2026
+- [NORMIE](https://play-normie.com/) Daily "are you normal?" game — lock in your take on 3 questions, then see how your answers compare to the crowd. Published on June 2026
+- 
 # [Framed](https://x.com/framedwtf)/[Instagram](https://www.instagram.com/framedwtf)/[Bluesky](https://bsky.app/profile/framed.wtf)
 - [Framed](https://framed.wtf/) Daily movie identification Wordle-like using still frames.
 
@@ -441,6 +479,17 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Camalia Group](https://guessthenews.com/)/[Twitter](https://x.com/guessthenews)
 - [Guess the News](https://guessthenews.com/) - Guess the missing word in today's real news headline with hotter/colder feedback and hints. Published July 2026.
 
+# [Last Control](https://last-control.com/)
+- [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
+
+# [Yush](https://github.com/Ya-shoo)
+- [OWdle](https://playowdle.com) Guess the daily Overwatch hero across five modes: Classic, Sound, Quote, Spotlight, and Ability.
+- [Deadlockle](https://deadlockle.com) Guess the daily Deadlock hero across six modes: Classic, Quote, Ability, Mugshot, Conversation, and Item.
+- [WuWadle](https://wuwadle.app) Guess the daily Wuthering Waves Resonator across five modes: Classic, Weapon, Banner, Forte, and Quote.
+
+# [La Lutte des cases](https://luttedescases.fr/)
+- [La Lutte des cases](https://luttedescases.fr/grille/today?utm_source=github&utm_medium=referral&utm_campaign=annuaire-github) Daily French arrowword (mots fléchés) built from the day's news: the source articles are shown at the end of the grid, and the score is shared without spoilers. Free, no signup required.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
@@ -497,7 +546,15 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Framed](https://framed.wtf/) - Wordle with movie frames 
 
+[Futbolle](https://futbolle.com) - 18 daily football puzzles: guess the mystery player, the missing XI, the grid, and more.
+
 [Geodle](https://geodle.me/) - Wordle with countries
+
+[DailyFoot](https://dailyfoot.live) - The daily football grid
+
+[DailyGeo](https://dailygeo.live) - The daily capital and country game
+
+[Geopolitix](https://geopolitix.live) - The daily country-ranking game
 
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
 
@@ -654,8 +711,6 @@ Sudoku Conquest - https://sudokuconquest.com
 Hitori Conquest - https://hitoriconquest.com
 Wordga - https://wordga.com
 
-# [Last Control](https://last-control.com/)
-- [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
 
 # Sources
 ## Other Wordle indexes
@@ -665,6 +720,7 @@ Wordga - https://wordga.com
 - [Alldle](https://alldle.net/)
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 - https://dles.aukspot.com/
+- [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -687,3 +743,6 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
+
+# [Squaredle.fun](https://squaredle.fun)
+- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
